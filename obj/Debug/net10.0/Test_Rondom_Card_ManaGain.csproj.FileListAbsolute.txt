@@ -1,0 +1,15 @@
+/workspaces/Test_Rondom_Card_ManaGain/bin/Debug/net10.0/Test_Rondom_Card_ManaGain
+/workspaces/Test_Rondom_Card_ManaGain/bin/Debug/net10.0/Test_Rondom_Card_ManaGain.deps.json
+/workspaces/Test_Rondom_Card_ManaGain/bin/Debug/net10.0/Test_Rondom_Card_ManaGain.runtimeconfig.json
+/workspaces/Test_Rondom_Card_ManaGain/bin/Debug/net10.0/Test_Rondom_Card_ManaGain.dll
+/workspaces/Test_Rondom_Card_ManaGain/bin/Debug/net10.0/Test_Rondom_Card_ManaGain.pdb
+/workspaces/Test_Rondom_Card_ManaGain/obj/Debug/net10.0/Test_Rondom_Card_ManaGain.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Test_Rondom_Card_ManaGain/obj/Debug/net10.0/Test_Rondom_Card_ManaGain.AssemblyInfoInputs.cache
+/workspaces/Test_Rondom_Card_ManaGain/obj/Debug/net10.0/Test_Rondom_Card_ManaGain.AssemblyInfo.cs
+/workspaces/Test_Rondom_Card_ManaGain/obj/Debug/net10.0/Test_Rondom_Card_ManaGain.csproj.CoreCompileInputs.cache
+/workspaces/Test_Rondom_Card_ManaGain/obj/Debug/net10.0/Test_Rondom_Card_ManaGain.sourcelink.json
+/workspaces/Test_Rondom_Card_ManaGain/obj/Debug/net10.0/Test_Rondom_Card_ManaGain.dll
+/workspaces/Test_Rondom_Card_ManaGain/obj/Debug/net10.0/refint/Test_Rondom_Card_ManaGain.dll
+/workspaces/Test_Rondom_Card_ManaGain/obj/Debug/net10.0/Test_Rondom_Card_ManaGain.pdb
+/workspaces/Test_Rondom_Card_ManaGain/obj/Debug/net10.0/Test_Rondom_Card_ManaGain.genruntimeconfig.cache
+/workspaces/Test_Rondom_Card_ManaGain/obj/Debug/net10.0/ref/Test_Rondom_Card_ManaGain.dll

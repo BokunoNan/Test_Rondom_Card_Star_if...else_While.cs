@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Test_Rondom_Card_ManaGain/1.0.0": {
+        "runtime": {
+          "Test_Rondom_Card_ManaGain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Test_Rondom_Card_ManaGain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
