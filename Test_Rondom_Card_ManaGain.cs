@@ -13,9 +13,9 @@ public class Program
         {
         //เขียนกำหนดหัวข้อ
         Console.ForegroundColor = ConsoleColor.Cyan;
-        Console.WriteLine("---------------------------------------------");
+        Console.WriteLine("--------------------------------------");
         Console.WriteLine("[ Richard I : มาสุ่มการ์ดกันเถอะ Master! ]");
-        Console.WriteLine("---------------------------------------------");
+        Console.WriteLine("--------------------------------------");
         Console.ResetColor();
           //เขียน loop for เพื่อสุ่มการ์ด 5 ใบ
         for (int i = 1; i <= 5; i++){

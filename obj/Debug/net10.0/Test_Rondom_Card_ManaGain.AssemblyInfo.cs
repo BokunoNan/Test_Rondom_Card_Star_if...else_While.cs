@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Test_Rondom_Card_ManaGain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a63349a4a9e9f1d3277c1b8cd4886ccee471ce6f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c19f39522980c151627a1eb9f1eae65d486cacf2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Test_Rondom_Card_ManaGain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Test_Rondom_Card_ManaGain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
