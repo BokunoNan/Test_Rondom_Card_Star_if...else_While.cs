@@ -7,9 +7,7 @@ public class Program
 	{
         bool CardRandom = true;
         //ประกาศตัวแปร สุ่ม
-        Random dice = new Random();
-        // bool CardRandom = true;
-       
+        Random dice = new Random();       
         //สร้างลูป while เพื่อให้สามารถสุ่มการ์ดได้เรื่อยๆ จนกว่าผู้ใช้จะกดปุ่มอื่นที่ไม่ใช่ Spacebar
         while (CardRandom)
         {
